@@ -12,7 +12,7 @@ Mandatory: 100.0%
 Optional: no optional tasks
 ```
 # Welcome to the Matrix!
-
+# image goes here
 
 This project will (probably) be your first experience with an Unix terminal!
 
@@ -21,25 +21,25 @@ For this project, please start and connect to your Sandbox Ubuntu 20.04.
 Resources
 Read or watch:
 
-Linux navigation
-Linux - looking around
-Linux - manipulating files
+- [Linux navigation](http://linuxcommand.org/lc3_lts0020.php)  
+- [Linux - looking around](http://linuxcommand.org/lc3_lts0030.php)  
+- [Linux - manipulating files](http://linuxcommand.org/lc3_lts0050.php)  
 Or in your terminal:
 
-man pwd
-man ls
-man cd
-man less
-man touch
-man cp
-man mv
-man rm
-man mkdir
-man rmdir
+- `man pwd`  
+- `man ls`  
+- `man cd`  
+- `man less`  
+- `man touch`  
+- `man cp`  
+- `man mv`  
+- `man rm`  
+- `man mkdir`  
+- `man rmdir`  
 Extra resources:
 
-Linux - /tmp
-Learning Objectives
+[Linux - /tmp](https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/tmp.html)  
+## Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
 General
